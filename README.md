@@ -25,13 +25,11 @@ NLPAssistant/
     cd NLPAssistant
     ```
 
-2. **Install dependencies:**
+2. **Install:**
     ```sh
     pip install -r requirements.txt
     ```
 
-3. **Configure API Key:**
-    Replace the placeholder in `src/nlp_model.py` with your Google Generative AI API key.
 
 ## Usage
 
