@@ -13,8 +13,9 @@ NLP Assistant provides NLP functionalities like sentiment analysis, language tra
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/NLPAssistant.git
+    git clone https://github.com/Shakil10945/NLP_Assistant
     cd NLPAssistant
+
     ```
 
 2. **Install:**
