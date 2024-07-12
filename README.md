@@ -8,14 +8,6 @@ NLP Assistant provides NLP functionalities like sentiment analysis, language tra
 - **Language Translation:** Translate text to Bengali.
 - **Language Detection:** Detect the language of text.
 
-## Directory Structure
-
-NLPAssistant/
-├── src/
-│ ├── init.py
-│ ├── nlp_model.py
-│ └── nlp_app.py
-└── main.py
 
 ## Setup
 
